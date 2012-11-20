@@ -1,0 +1,2076 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Presidencia de la Rep\u00fablica", 
+                            "value": 2351.3210562445
+                        }
+                    ], 
+                    "name": "Presidencia de la Rep\u00fablica"
+                }
+            ], 
+            "name": "Presidencia de la Rep\u00fablica"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Senado", 
+                            "value": 4818.0493329738
+                        }
+                    ], 
+                    "name": "Senado"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "C\u00e1mara de Diputados", 
+                            "value": 7581.3314822436
+                        }
+                    ], 
+                    "name": "C\u00e1mara de Diputados"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Biblioteca del Congreso", 
+                            "value": 1661.8355983395
+                        }
+                    ], 
+                    "name": "Biblioteca del Congreso"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Consejo Resolutivo de Asignaciones Parlamentarias", 
+                            "value": 190.17515286561
+                        }
+                    ], 
+                    "name": "Consejo Resolutivo de Asignaciones Parlamentarias"
+                }
+            ], 
+            "name": "Congreso Nacional"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Poder Judicial", 
+                            "value": 31553.99466513
+                        }
+                    ], 
+                    "name": "Poder Judicial"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Corporaci\u00f3n Administrativa del Poder Judicial", 
+                            "value": 13135.249983724
+                        }, 
+                        {
+                            "name": "Proyecto Fortalecimiento Institucional", 
+                            "value": 444.57829542972
+                        }
+                    ], 
+                    "name": "Corporaci\u00f3n Administrativa del Poder Judicial"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Academia Judicial", 
+                            "value": 561.37160405161
+                        }
+                    ], 
+                    "name": "Academia Judicial"
+                }
+            ], 
+            "name": "Poder Judicial"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Contralor\u00eda", 
+                            "value": 7820.0507420264
+                        }
+                    ], 
+                    "name": "Contralor\u00eda"
+                }
+            ], 
+            "name": "Contralor\u00eda General de la Rep\u00fablica"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Servicio de Gobierno Interior", 
+                            "value": 10430.195246887
+                        }
+                    ], 
+                    "name": "Servicio de Gobierno Interior"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio Electoral", 
+                            "value": 1195.1715458938
+                        }, 
+                        {
+                            "name": "Elecciones Municipales", 
+                            "value": 153.18350875914
+                        }, 
+                        {
+                            "name": "Elecciones Parlamentarias y Presidencial", 
+                            "value": 2261.915007423
+                        }
+                    ], 
+                    "name": "Servicio Electoral"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Oficina Nacional de Emergencia", 
+                            "value": 1935.0519027343
+                        }
+                    ], 
+                    "name": "Oficina Nacional de Emergencia"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretar\u00eda de Desarrollo Regional y Administrativo", 
+                            "value": 52242.532645361
+                        }, 
+                        {
+                            "name": "Fortalecimiento de la Gesti\u00f3n Subnacional", 
+                            "value": 1150.1321899891
+                        }, 
+                        {
+                            "name": "Programas de Desarrollo Local", 
+                            "value": 17021.858702231
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda de Desarrollo Regional y Administrativo"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Agencia Nacional de Inteligencia", 
+                            "value": 893.97980238278
+                        }
+                    ], 
+                    "name": "Agencia Nacional de Inteligencia"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretar\u00eda de Prevenci\u00f3n del Delito", 
+                            "value": 4859.9221312009
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda de Prevenci\u00f3n del Delito"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio Nacional para Prevenci\u00f3n y Rehabilitaci\u00f3n Consumo de Drogas y Alcohol", 
+                            "value": 6556.6541834972
+                        }
+                    ], 
+                    "name": "Servicio Nacional para Prevenci\u00f3n y Rehabilitaci\u00f3n Consumo de Drogas y Alcohol"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretar\u00eda del Interior", 
+                            "value": 3570.2808680885
+                        }, 
+                        {
+                            "name": "Red de Conectividad del Estado", 
+                            "value": 636.5229896944
+                        }, 
+                        {
+                            "name": "Fondo Social", 
+                            "value": 785.89609862534
+                        }, 
+                        {
+                            "name": "Bomberos de Chile", 
+                            "value": 3398.0758651238
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda del Interior"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Carabineros de Chile", 
+                            "value": 2806.59331084
+                        }
+                    ], 
+                    "name": "Carabineros de Chile"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Hospital de Carabineros", 
+                            "value": 3211.1610530839
+                        }
+                    ], 
+                    "name": "Hospital de Carabineros"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Polic\u00eda de Investigaciones de Chile", 
+                            "value": 26171.997129073
+                        }
+                    ], 
+                    "name": "Polic\u00eda de Investigaciones de Chile"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Gastos de Funcionamiento Regi\u00f3n I", 
+                            "value": 475.69182556128
+                        }, 
+                        {
+                            "name": "Inversi\u00f3n Regional Regi\u00f3n I", 
+                            "value": 4451.2905489058
+                        }
+                    ], 
+                    "name": "Gobierno Regional Regi\u00f3n I Tarapac\u00e1"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Gastos de Funcionamiento Regi\u00f3n II", 
+                            "value": 536.19900986154
+                        }, 
+                        {
+                            "name": "Inversi\u00f3n Regional Regi\u00f3n II", 
+                            "value": 7047.8558774059
+                        }
+                    ], 
+                    "name": "Gobierno Regional Regi\u00f3n II Antofagasta"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Gastos de Funcionamiento Regi\u00f3n Iii", 
+                            "value": 498.58476638635
+                        }, 
+                        {
+                            "name": "Inversi\u00f3n Regional Regi\u00f3n III", 
+                            "value": 5249.2032463192
+                        }
+                    ], 
+                    "name": "Gobierno Regional Regi\u00f3n III Atacama"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Gastos de Funcionamiento Regi\u00f3n IV", 
+                            "value": 534.88154478014
+                        }, 
+                        {
+                            "name": "Inversi\u00f3n Regional Regi\u00f3n IV", 
+                            "value": 5753.9979025056
+                        }
+                    ], 
+                    "name": "Gobierno Regional Region IV Coquimbo"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Gastos de Funcionamiento Regi\u00f3n V", 
+                            "value": 605.73291324863
+                        }, 
+                        {
+                            "name": "Inversi\u00f3n Regional Regi\u00f3n V", 
+                            "value": 6456.8414694239
+                        }
+                    ], 
+                    "name": "Gobierno Regional Regi\u00f3n V Valpara\u00edso"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Gastos de Funcionamiento Regi\u00f3n VI", 
+                            "value": 490.5949058467
+                        }, 
+                        {
+                            "name": "Inversi\u00f3n Regional Regi\u00f3n VI", 
+                            "value": 5471.9902568874
+                        }
+                    ], 
+                    "name": "Gobierno Regional Regi\u00f3n VI Libertador General Bernardo O'Higgins"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Gastos de Funcionamiento Regi\u00f3n VII", 
+                            "value": 517.25542771489
+                        }, 
+                        {
+                            "name": "Inversi\u00f3n Regional Regi\u00f3n VII", 
+                            "value": 7015.616973424
+                        }
+                    ], 
+                    "name": "Gobierno Regional Regi\u00f3n VII Maule"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Gastos de Funcionamiento Regi\u00f3n VIII", 
+                            "value": 657.4264780921
+                        }, 
+                        {
+                            "name": "Inversi\u00f3n Regional Regi\u00f3n VIII", 
+                            "value": 9534.8765563036
+                        }
+                    ], 
+                    "name": "Gobierno Regional Regi\u00f3n VIII Bio-Bio"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Gastos de Funcionamiento Regi\u00f3n IX", 
+                            "value": 564.44740052571
+                        }, 
+                        {
+                            "name": "Inversi\u00f3n Regional Regi\u00f3n IX", 
+                            "value": 9038.1156462169
+                        }
+                    ], 
+                    "name": "Gobierno Regional Regi\u00f3n IX Araucan\u00eda"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Gastos de Funcionamiento Regi\u00f3n X", 
+                            "value": 561.54939312322
+                        }, 
+                        {
+                            "name": "Inversi\u00f3n Regional Regi\u00f3n X", 
+                            "value": 7605.3134841616
+                        }
+                    ], 
+                    "name": "Gobierno Regional Regi\u00f3n X Los Lagos"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Gastos de Funcionamiento Regi\u00f3n XI", 
+                            "value": 588.19284770075
+                        }, 
+                        {
+                            "name": "Inversi\u00f3n Regional Regi\u00f3n XI", 
+                            "value": 4137.5139945698
+                        }
+                    ], 
+                    "name": "Gobierno Regional Regi\u00f3n XI Ays\u00e9n del Gral. Carlos Ib\u00e1\u00f1ez del Campo"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Gastos de Funcionamiento Regi\u00f3n XII", 
+                            "value": 530.81152189941
+                        }, 
+                        {
+                            "name": "Inversi\u00f3n Regional Regi\u00f3n XII", 
+                            "value": 4316.0508466051
+                        }, 
+                        {
+                            "name": "Fondo de Desarrollo de Magallanes y de la Ant\u00e1rtica Chilena", 
+                            "value": 1341.6192652961
+                        }
+                    ], 
+                    "name": "Gobierno Regional Regi\u00f3n XII Magallanes y Ant\u00e1rtica Chilena"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Gastos de Funcionamiento Regi\u00f3n Metropolitana", 
+                            "value": 815.48517542428
+                        }, 
+                        {
+                            "name": "Inversi\u00f3n Regional Regi\u00f3n Metropolitana", 
+                            "value": 11314.936860377
+                        }
+                    ], 
+                    "name": "Gobierno Regional Regi\u00f3n Metropolitana de Santiago"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Gastos de Funcionamiento Regi\u00f3n XIV", 
+                            "value": 496.34176930856
+                        }, 
+                        {
+                            "name": "Inversi\u00f3n Regional Regi\u00f3n XIV", 
+                            "value": 4504.6812269172
+                        }
+                    ], 
+                    "name": "Gobierno Regional Regi\u00f3n XIV los R\u00edos"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Gastos de Funcionamiento Regi\u00f3n XV", 
+                            "value": 501.67966452777
+                        }, 
+                        {
+                            "name": "Inversi\u00f3n Regional Regi\u00f3n XV", 
+                            "value": 3005.1204752365
+                        }
+                    ], 
+                    "name": "Gobierno Regional Regi\u00f3n XV Arica y Parinacota"
+                }
+            ], 
+            "name": "Interior y Seguridad P\u00fablica"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Secretar\u00eda y Administraci\u00f3n General y Servicio Exterior", 
+                            "value": 9629.5461849108
+                        }
+                    ], 
+                    "name": "Secretar\u00eda y Administraci\u00f3n General y Servicio Exterior"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Direcci\u00f3n General de Relaciones Econ\u00f3micas Internacionales", 
+                            "value": 1071.7319456446
+                        }, 
+                        {
+                            "name": "Promoci\u00f3n de Exportaciones", 
+                            "value": 1788.088370604
+                        }
+                    ], 
+                    "name": "Direcci\u00f3n General de Relaciones Econ\u00f3micas Internacionales"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Direccion de Fronteras y L\u00edmites del Estado", 
+                            "value": 1473.1420761603
+                        }
+                    ], 
+                    "name": "Direccion de Fronteras y L\u00edmites del Estado"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Instituto Ant\u00e1rtico Chileno", 
+                            "value": 638.58561208649
+                        }
+                    ], 
+                    "name": "Instituto Ant\u00e1rtico Chileno"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Agencia de Cooperaci\u00f3n Internacional de Chile", 
+                            "value": 993.925380519
+                        }
+                    ], 
+                    "name": "Agencia de Cooperaci\u00f3n Internacional de Chile"
+                }
+            ], 
+            "name": "Relaciones Exteriores"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretaria de Econom\u00eda y Empresas de Menor Tama\u00f1o", 
+                            "value": 2433.0046240851
+                        }, 
+                        {
+                            "name": "Programa Fondo de Innovaci\u00f3n para Competitividad", 
+                            "value": 12743.666718577
+                        }, 
+                        {
+                            "name": "Secretaria Ejecutiva Consejo Nacional de Innovaci\u00f3n", 
+                            "value": 249.07040762161
+                        }, 
+                        {
+                            "name": "Programa Iniciativa Cientifica Millenium", 
+                            "value": 1739.7785658277
+                        }, 
+                        {
+                            "name": "Estrategia Nacional de Innovaci\u00f3n", 
+                            "value": 2479.4246506931
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda de Econom\u00eda y Empresas de Menor Tama\u00f1o"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio Nacional del Consumidor", 
+                            "value": 1401.802621616
+                        }
+                    ], 
+                    "name": "Servicio Nacional del Consumidor"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretar\u00eda de Pesca y Acuicultura", 
+                            "value": 3743.5069632504
+                        }, 
+                        {
+                            "name": "Fondo de Administraci\u00f3n Pesquero", 
+                            "value": 887.26729587568
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda de Pesca y Acuicultura"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio Nacional de Pesca y Acuicultura", 
+                            "value": 3365.4398431822
+                        }
+                    ], 
+                    "name": "Servicio Nacional de Pesca y Acuicultura"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Corporaci\u00f3n de Fomento de la Producci\u00f3n", 
+                            "value": 112771.02451691
+                        }
+                    ], 
+                    "name": "Corporaci\u00f3n de Fomento de la Producci\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Instituto Nacional de Estad\u00edsticas", 
+                            "value": 3610.0984155648
+                        }
+                    ], 
+                    "name": "Instituto Nacional de Estad\u00edsticas"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Fiscal\u00eda Nacional Econ\u00f3mica", 
+                            "value": 799.70526673208
+                        }
+                    ], 
+                    "name": "Fiscal\u00eda Nacional Econ\u00f3mica"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio Nacional de Turismo", 
+                            "value": 3159.7232236407
+                        }
+                    ], 
+                    "name": "Servicio Nacional de Turismo"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio de Cooperaci\u00f3n T\u00e9cnica", 
+                            "value": 5083.4596807502
+                        }
+                    ], 
+                    "name": "Servicio de Cooperaci\u00f3n T\u00e9cnica"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Comit\u00e9 Innova Chile", 
+                            "value": 10435.440455162
+                        }
+                    ], 
+                    "name": "Comit\u00e9 Innova Chile"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Comit\u00e9 de Inversiones Extranjeras", 
+                            "value": 513.44157111493
+                        }
+                    ], 
+                    "name": "Comit\u00e9 de Inversiones Extranjeras"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Instituto nacional de Propiedad Industrial", 
+                            "value": 952.06914622418
+                        }
+                    ], 
+                    "name": "Instituto Nacional de Propiedad Industrial"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretar\u00eda de Turismo", 
+                            "value": 93.26934322645
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda de Turismo"
+                }
+            ], 
+            "name": "Econom\u00eda, Fomento y Turismo"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Secretar\u00eda y Administraci\u00f3n General", 
+                            "value": 1594.8125449602
+                        }, 
+                        {
+                            "name": "Unidad Administradora de los Tribunales Tributarios y Aduaneros", 
+                            "value": 1290.5374847299
+                        }, 
+                        {
+                            "name": "Sistema Integrado de Comercio Exterior (SICEX)", 
+                            "value": 565.53196646774
+                        }
+                    ], 
+                    "name": "Secretar\u00eda y Administraci\u00f3n General"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Direcci\u00f3n de Presupuestos", 
+                            "value": 2264.0072209662
+                        }, 
+                        {
+                            "name": "Modernizaci\u00f3n Administraci\u00f3n Financiera del Estado - Proyecto Sigfe", 
+                            "value": 1352.5586508552
+                        }
+                    ], 
+                    "name": "Direcci\u00f3n de Presupuestos"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio de Impuestos Internos", 
+                            "value": 14272.021258579
+                        }
+                    ], 
+                    "name": "Servicio de Impuestos Internos"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio Nacional de Aduanas", 
+                            "value": 6691.8416661331
+                        }
+                    ], 
+                    "name": "Servicio Nacional de Aduanas"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio de Tesorer\u00edas", 
+                            "value": 5714.5744105448
+                        }
+                    ], 
+                    "name": "Servicio de Tesorer\u00edas"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Direcci\u00f3n de Compras y Contrataci\u00f3n P\u00fablica", 
+                            "value": 1182.073665029
+                        }
+                    ], 
+                    "name": "Direcci\u00f3n de Compras y Contrataci\u00f3n P\u00fablica"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Superintendencia de Valores y Seguros", 
+                            "value": 1974.6891452097
+                        }
+                    ], 
+                    "name": "Superintendencia de Valores y Seguros"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Superintendencia de Bancos e Instituciones Financieras", 
+                            "value": 5168.6677005337
+                        }
+                    ], 
+                    "name": "Superintendencia de Bancos e Instituciones Financieras"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Direcci\u00f3n Nacional del Servicio Civil", 
+                            "value": 1538.7632200965
+                        }
+                    ], 
+                    "name": "Direcci\u00f3n Nacional del Servicio Civil"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Unidad de An\u00e1lisis Financiero", 
+                            "value": 459.69742838843
+                        }
+                    ], 
+                    "name": "Unidad de An\u00e1lisis Financiero"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Superintendencia de Casinos de Juego", 
+                            "value": 669.49729151509
+                        }
+                    ], 
+                    "name": "Superintendencia de Casinos de Juego"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Consejo de Defensa del Estado", 
+                            "value": 2633.0378996444
+                        }
+                    ], 
+                    "name": "Consejo de Defensa del Estado"
+                }
+            ], 
+            "name": "Hacienda"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretar\u00eda de Educaci\u00f3n", 
+                            "value": 23858.330043162
+                        }, 
+                        {
+                            "name": "Programa de Infraestructura Educacional", 
+                            "value": 32367.75604365
+                        }, 
+                        {
+                            "name": "Mejoramiento de la Calidad de la Educaci\u00f3n", 
+                            "value": 4495.9482954641
+                        }, 
+                        {
+                            "name": "Desarrollo Curricular y Evaluaci\u00f3n", 
+                            "value": 4630.5014136076
+                        }, 
+                        {
+                            "name": "Supervisi\u00f3n de Establecimientos Educacionales Subvencionados", 
+                            "value": 3805.0078132411
+                        }, 
+                        {
+                            "name": "Recursos Educativos", 
+                            "value": 8552.8526063197
+                        }, 
+                        {
+                            "name": "Subvenciones a los Establecimientos Educacionales", 
+                            "value": 362397.04400428
+                        }, 
+                        {
+                            "name": "Gesti\u00f3n de Subvenciones a Establecimientos Educacionales", 
+                            "value": 533.06400205463
+                        }, 
+                        {
+                            "name": "Educaci\u00f3n Superior", 
+                            "value": 115605.08794063
+                        }, 
+                        {
+                            "name": "Gastos de Operaci\u00f3n de Educaci\u00f3n Superior", 
+                            "value": 840.06238325344
+                        }, 
+                        {
+                            "name": "Becas Chile", 
+                            "value": 8286.0342737163
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda de Educaci\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Superintendencia de Educaci\u00f3n", 
+                            "value": 2344.6785329181
+                        }
+                    ], 
+                    "name": "Superintendencia de Educaci\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Agencia de Calidad de la Educaci\u00f3n", 
+                            "value": 4180.3918914438
+                        }
+                    ], 
+                    "name": "Agencia de Calidad de la Educaci\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Direcci\u00f3n de Bibliotecas, Archivos y Museos", 
+                            "value": 4666.0571780696
+                        }, 
+                        {
+                            "name": "Red de Bibliotecas P\u00fablicas", 
+                            "value": 716.10790634624
+                        }
+                    ], 
+                    "name": "Direcci\u00f3n de Bibliotecas, Archivos y Museos"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Comisi\u00f3n Nacional de Investigaci\u00f3n Cient\u00edfica y Tecnol\u00f3gica", 
+                            "value": 31853.89526561
+                        }
+                    ], 
+                    "name": "Comisi\u00f3n Nacional de Investigaci\u00f3n Cient\u00edfica y Tecnol\u00f3gica"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Junta Nacional de Auxilio Escolar y Becas", 
+                            "value": 46793.456718764
+                        }, 
+                        {
+                            "name": "Salud Escolar", 
+                            "value": 2630.4564649377
+                        }, 
+                        {
+                            "name": "Becas y Asistencialidad Estudiantil", 
+                            "value": 23270.535220696
+                        }
+                    ], 
+                    "name": "Junta Nacional de Auxilio Escolar y Becas"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Junta Nacional de Jardines Infantiles", 
+                            "value": 34508.263780583
+                        }, 
+                        {
+                            "name": "Programas Alternativos de Ense\u00f1anza Pre-escolar", 
+                            "value": 1566.0106882368
+                        }
+                    ], 
+                    "name": "Junta Nacional de Jardines Infantiles"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Consejo de Rectores", 
+                            "value": 93.587933436462
+                        }
+                    ], 
+                    "name": "Consejo de Rectores"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Consejo Nacional de Educaci\u00f3n", 
+                            "value": 341.62290747366
+                        }
+                    ], 
+                    "name": "Consejo Nacional de Educaci\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Consejo Nacional de la Cultura y las Artes", 
+                            "value": 6522.7418405716
+                        }, 
+                        {
+                            "name": "Fondos Culturales y Art\u00edsticos", 
+                            "value": 3685.7999106621
+                        }
+                    ], 
+                    "name": "Consejo Nacional de la Cultura y las Artes"
+                }
+            ], 
+            "name": "Educaci\u00f3n"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Secretar\u00eda y Administraci\u00f3n General", 
+                            "value": 20078.916460337
+                        }, 
+                        {
+                            "name": "Programa de Coordinaci\u00f3n Reforma Judicial", 
+                            "value": 3519.3515417133
+                        }
+                    ], 
+                    "name": "Secretar\u00eda y Administraci\u00f3n General"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio de Registro Civil e Identificaci\u00f3n", 
+                            "value": 11428.471621806
+                        }
+                    ], 
+                    "name": "Servicio de Registro Civil e Identificaci\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio Medico Legal", 
+                            "value": 4047.1528293308
+                        }
+                    ], 
+                    "name": "Servicio M\u00e9dico Legal"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Gendarmer\u00eda de Chile", 
+                            "value": 33048.798901849
+                        }, 
+                        {
+                            "name": "Programas de Rehabilitaci\u00f3n y Reinserci\u00f3n Social", 
+                            "value": 4389.8547506904
+                        }
+                    ], 
+                    "name": "Gendarmeria de Chile"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Superintendencia de Quiebras", 
+                            "value": 398.23529028294
+                        }
+                    ], 
+                    "name": "Superintendencia de Quiebras"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio Nacional de Menores", 
+                            "value": 14730.866323271
+                        }, 
+                        {
+                            "name": "Programa de Administraci\u00f3n Directa y Proyectos Nacionales", 
+                            "value": 8120.5645362101
+                        }
+                    ], 
+                    "name": "Servicio Nacional de Menores"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Defensoria Penal P\u00fablica", 
+                            "value": 6198.8368619829
+                        }
+                    ], 
+                    "name": "Defensor\u00eda Penal P\u00fablica"
+                }
+            ], 
+            "name": "Justicia"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Ej\u00e9rcito de Chile", 
+                            "value": 2161.5429964528
+                        }
+                    ], 
+                    "name": "Ej\u00e9rcito de Chile"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Organismos de Salud", 
+                            "value": 8448.2813115356
+                        }
+                    ], 
+                    "name": "Organismos de Salud"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Organismos de Industria Militar", 
+                            "value": 619.61682905493
+                        }
+                    ], 
+                    "name": "Organismos de Industria Militar"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Armada de Chile", 
+                            "value": 6187.1905475314
+                        }
+                    ], 
+                    "name": "Armada de Chile"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Direcci\u00f3n General del Territorio Mar\u00edtimo", 
+                            "value": 7679.5844053403
+                        }
+                    ], 
+                    "name": "Direcci\u00f3n General del Territorio Mar\u00edtimo"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Direcci\u00f3n de Sanidad", 
+                            "value": 8362.5113116434
+                        }
+                    ], 
+                    "name": "Direcci\u00f3n de Sanidad"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Fuerza A\u00e9rea de Chile", 
+                            "value": 5885.1238525335
+                        }
+                    ], 
+                    "name": "Fuerza A\u00e9rea de Chile"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Organismos de Salud de la Fach", 
+                            "value": 3623.1064636358
+                        }
+                    ], 
+                    "name": "Organismos de Salud de la Fach"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Direcci\u00f3n General de Movilizaci\u00f3n Nacional", 
+                            "value": 876.20980848181
+                        }
+                    ], 
+                    "name": "Direcci\u00f3n General de Movilizaci\u00f3n Nacional"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Instituto Geogr\u00e1fico Militar", 
+                            "value": 653.11361805979
+                        }
+                    ], 
+                    "name": "Instituto Geogr\u00e1fico Militar"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio Hidrogr\u00e1fico y Oceanogr\u00e1fico de la Armada de Chile", 
+                            "value": 906.15045620055
+                        }
+                    ], 
+                    "name": "Servicio Hidrogr\u00e1fico y Oceanogr\u00e1fico de la Armada de Chile"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Direcci\u00f3n General de Aeron\u00e1utica Civil", 
+                            "value": 15424.971603069
+                        }
+                    ], 
+                    "name": "Direcci\u00f3n General de Aeron\u00e1utica Civil"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio Aerofotogram\u00e9trico de la Fuerza A\u00e9rea de Chile", 
+                            "value": 425.54561376367
+                        }
+                    ], 
+                    "name": "Servicio Aerofotogram\u00e9trico de la Fuerza A\u00e9rea de Chile"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretaria para las Fuerzas Armadas", 
+                            "value": 47.270088540085
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda para las Fuerzas Armadas"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretaria de Defensa", 
+                            "value": 70.549507377199
+                        }
+                    ], 
+                    "name": "Subsecretaria de Defensa"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Estado Mayor Conjunto", 
+                            "value": 2220.704272839
+                        }
+                    ], 
+                    "name": "Estado Mayor Conjunto"
+                }
+            ], 
+            "name": "Defensa Nacional"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Secretar\u00eda y Administraci\u00f3n General", 
+                            "value": 2445.5260526283
+                        }
+                    ], 
+                    "name": "Secretar\u00eda y Administraci\u00f3n General"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Administraci\u00f3n y Ejecuci\u00f3n de Obras P\u00fablicas", 
+                            "value": 2593.846296203
+                        }, 
+                        {
+                            "name": "Direcci\u00f3n de Arquitectura", 
+                            "value": 7448.9315998583
+                        }, 
+                        {
+                            "name": "Direcci\u00f3n de Obras Hidr\u00e1ulicas", 
+                            "value": 13903.627585629
+                        }, 
+                        {
+                            "name": "Direcci\u00f3n de Vialidad", 
+                            "value": 95874.908862784
+                        }, 
+                        {
+                            "name": "Direcci\u00f3n de Obras Portuarias", 
+                            "value": 8272.5758057115
+                        }, 
+                        {
+                            "name": "Direcci\u00f3n de Aeropuertos", 
+                            "value": 5755.4148569185
+                        }, 
+                        {
+                            "name": "Administraci\u00f3n Sistema Concesiones", 
+                            "value": 51224.05330383
+                        }, 
+                        {
+                            "name": "Direcci\u00f3n de Planeamiento", 
+                            "value": 17054.072722087
+                        }, 
+                        {
+                            "name": "Agual Potable Rural", 
+                            "value": 6764.0957654654
+                        }
+                    ], 
+                    "name": "Direcci\u00f3n General de Obras P\u00fablicas"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Direcci\u00f3n General de Aguas", 
+                            "value": 2322.8177615396
+                        }
+                    ], 
+                    "name": "Direcci\u00f3n General de Aguas"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Instituto Nacional de Hidr\u00e1ulica", 
+                            "value": 341.61471323006
+                        }
+                    ], 
+                    "name": "Instituto Nacional de Hidr\u00e1ulica"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Superintendencia de Servicios Sanitarios", 
+                            "value": 1384.0919355306
+                        }
+                    ], 
+                    "name": "Superintendencia de Servicios Sanitarios"
+                }
+            ], 
+            "name": "Obras P\u00fablicas"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretar\u00eda de Agricultura", 
+                            "value": 4115.7192172201
+                        }, 
+                        {
+                            "name": "Investigaci\u00f3n e Innovaci\u00f3n Tecnol\u00f3gica Silvoagropecuaria", 
+                            "value": 4033.5654363943
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda de Agricultura"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Oficina de Estudios y Pol\u00edticas Agrarias", 
+                            "value": 842.0029224739
+                        }
+                    ], 
+                    "name": "Oficina de Estudios y Pol\u00edticas Agrarias"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Instituto de Desarrollo Agropecuario", 
+                            "value": 25625.017926815
+                        }
+                    ], 
+                    "name": "Instituto de Desarrollo Agropecuario"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio Agr\u00edcola y Ganadero", 
+                            "value": 3020.0777569638
+                        }, 
+                        {
+                            "name": "Inspecciones Exportaciones Silvoagropecuarias", 
+                            "value": 2072.405234819
+                        }, 
+                        {
+                            "name": "Programa Desarrollo Ganadero", 
+                            "value": 1567.9025506383
+                        }, 
+                        {
+                            "name": "Vigilancia y Control Silvoagr\u00edcola", 
+                            "value": 2482.1510462485
+                        }, 
+                        {
+                            "name": "Programa de Controles Fronterizos", 
+                            "value": 1477.7296537317
+                        }, 
+                        {
+                            "name": "Programa Gesti\u00f3n y Conservaci\u00f3n de Recursos Naturales Renovables", 
+                            "value": 2659.5772128826
+                        }, 
+                        {
+                            "name": "Laboratorios", 
+                            "value": 908.10443656683
+                        }
+                    ], 
+                    "name": "Servicio Agr\u00edcola y Ganadero"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Corporaci\u00f3n Nacional Forestal", 
+                            "value": 2586.2695508357
+                        }, 
+                        {
+                            "name": "Programa de Manejo del Fuego", 
+                            "value": 2533.6344359081
+                        }, 
+                        {
+                            "name": "Areas Silvestres Protegidas", 
+                            "value": 1812.1123644602
+                        }, 
+                        {
+                            "name": "Gesti\u00f3n Forestal", 
+                            "value": 2241.7532265019
+                        }, 
+                        {
+                            "name": "Programa  de Arborizaci\u00f3n Urbana", 
+                            "value": 961.31349166301
+                        }
+                    ], 
+                    "name": "Corporaci\u00f3n Nacional Forestal"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Comisi\u00f3n Nacional de Riego", 
+                            "value": 1433.2081964914
+                        }
+                    ], 
+                    "name": "Comisi\u00f3n Nacional de Riego"
+                }
+            ], 
+            "name": "Agricultura"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretar\u00eda de Bienes Nacionales", 
+                            "value": 3955.5908129558
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda de Bienes Nacionales"
+                }
+            ], 
+            "name": "Bienes Nacionales"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretar\u00eda del Trabajo", 
+                            "value": 1325.6212959494
+                        }, 
+                        {
+                            "name": "Proempleo", 
+                            "value": 2003.6808690309
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda del Trabajo"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Direccion Del Trabajo", 
+                            "value": 7052.7306684555
+                        }
+                    ], 
+                    "name": "Direcci\u00f3n del Trabajo"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretar\u00eda de Previsi\u00f3n Social", 
+                            "value": 1217.4452195438
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda de Previsi\u00f3n Social"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Direcci\u00f3n General de Cr\u00e9dito Prendario", 
+                            "value": 5510.2942332552
+                        }
+                    ], 
+                    "name": "Direcci\u00f3n General de Cr\u00e9dito Prendario"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Superintendencia de Seguridad Social", 
+                            "value": 1452.8522824312
+                        }
+                    ], 
+                    "name": "Superintendencia de Seguridad Social"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Superintendencia de Pensiones", 
+                            "value": 2455.7141192179
+                        }
+                    ], 
+                    "name": "Superintendencia de Pensiones"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Instituto de Previsi\u00f3n Social", 
+                            "value": 436617.89910729
+                        }
+                    ], 
+                    "name": "Instituto de Previsi\u00f3n Social"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Instituto de Seguridad Laboral", 
+                            "value": 9640.4613578232
+                        }
+                    ], 
+                    "name": "Instituto de Seguridad Laboral"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Fondo de Medicina Curativa", 
+                            "value": 4584.9642547003
+                        }
+                    ], 
+                    "name": "Caja de Previsi\u00f3n de la Defensa Nacional"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Direcci\u00f3n de Previsi\u00f3n de Carabineros de Chile", 
+                            "value": 66542.720838099
+                        }
+                    ], 
+                    "name": "Direcci\u00f3n de Previsi\u00f3n de Carabineros de Chile"
+                }
+            ], 
+            "name": "Trabajo y Previsi\u00f3n Social"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Fondo Nacional de Salud", 
+                            "value": 391413.03406644
+                        }
+                    ], 
+                    "name": "Fondo Nacional De Salud"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Instituto de Salud P\u00fablica de Chile", 
+                            "value": 3267.6216195491
+                        }
+                    ], 
+                    "name": "Instituto de Salud P\u00fablica de Chile"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Central de Abastecimiento del Sistema Nacional de Salud", 
+                            "value": 1049.2378112002
+                        }
+                    ], 
+                    "name": "Central de Abastecimiento del Sistema Nacional de Salud"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretar\u00eda de Salud P\u00fablica", 
+                            "value": 39339.652604387
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda de Salud P\u00fablica"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretar\u00eda de Redes Asistenciales", 
+                            "value": 8820.2766419383
+                        }, 
+                        {
+                            "name": "Inversi\u00f3n Sectorial de Salud", 
+                            "value": 32003.354878143
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda de Redes Asistenciales"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Superintendencia de Salud", 
+                            "value": 1704.2478401501
+                        }
+                    ], 
+                    "name": "Superintendencia de Salud"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio De Salud Araucania Norte", 
+                            "value": 6464.002836802
+                        }
+                    ], 
+                    "name": "Servicio De Salud Araucania Norte"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Programa Contingencias Operacionales", 
+                            "value": 24055.359493415
+                        }
+                    ], 
+                    "name": "Programa Contingencias Operacionales"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Hospital Padre Alberto Hurtado", 
+                            "value": 4643.1079255328
+                        }
+                    ], 
+                    "name": "Hospital Padre Alberto Hurtado"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Centro de Referencia de Salud Maip\u00fa", 
+                            "value": 1437.9249042292
+                        }
+                    ], 
+                    "name": "Centro de Referencia de Salud Maip\u00fa"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Centro de Referencia de Salud de Pe\u00f1alol\u00e9n Cordillera Oriente", 
+                            "value": 1061.4981991319
+                        }
+                    ], 
+                    "name": "Centro de Referencia de Salud de Pe\u00f1alol\u00e9n Cordillera Oriente"
+                }
+            ], 
+            "name": "Salud"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Secretar\u00eda y Administraci\u00f3n General", 
+                            "value": 730.68260256278
+                        }, 
+                        {
+                            "name": "Fomento de la Peque\u00f1a y Mediana Miner\u00eda", 
+                            "value": 997.16005376825
+                        }
+                    ], 
+                    "name": "Secretar\u00eda y Administraci\u00f3n General"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Comisi\u00f3n Chilena del Cobre", 
+                            "value": 656.78142022081
+                        }
+                    ], 
+                    "name": "Comisi\u00f3n Chilena del Cobre"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio Nacional de Geolog\u00eda y Miner\u00eda", 
+                            "value": 1705.6484393966
+                        }, 
+                        {
+                            "name": "Red Nacional de Vigilancia Volc\u00e1nica", 
+                            "value": 545.36549641165
+                        }, 
+                        {
+                            "name": "Plan Nacional de Geolog\u00eda", 
+                            "value": 851.51216970461
+                        }, 
+                        {
+                            "name": "Programa de Seguridad Minera", 
+                            "value": 707.30433971846
+                        }
+                    ], 
+                    "name": "Servicio Nacional de Geolog\u00eda y Miner\u00eda"
+                }
+            ], 
+            "name": "Miner\u00eda"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretar\u00eda de Vivienda y Urbanismo", 
+                            "value": 14916.102675141
+                        }, 
+                        {
+                            "name": "Aldeas y Campamentos", 
+                            "value": 2551.3308589095
+                        }, 
+                        {
+                            "name": "Recuperaci\u00f3n de Barrios", 
+                            "value": 5634.40689697
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda de Vivienda y Urbanismo"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Parque Metropolitano", 
+                            "value": 2959.4157967337
+                        }
+                    ], 
+                    "name": "Parque Metropolitano"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Serviu I Regi\u00f3n", 
+                            "value": 4025.6120517957
+                        }
+                    ], 
+                    "name": "Serviu I Regi\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Serviu II Regi\u00f3n", 
+                            "value": 5197.8857925579
+                        }
+                    ], 
+                    "name": "Serviu II Regi\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Serviu III Regi\u00f3n", 
+                            "value": 3479.5399816193
+                        }
+                    ], 
+                    "name": "Serviu III Regi\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Serviu IV Regi\u00f3n", 
+                            "value": 6231.8125757948
+                        }
+                    ], 
+                    "name": "Serviu IV Regi\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Serviu V Regi\u00f3n", 
+                            "value": 16285.80503035
+                        }
+                    ], 
+                    "name": "Serviu V Regi\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Serviu VI Regi\u00f3n", 
+                            "value": 14967.324080247
+                        }
+                    ], 
+                    "name": "Serviu VI Regi\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Serviu VII Regi\u00f3n", 
+                            "value": 23127.53637822
+                        }
+                    ], 
+                    "name": "Serviu VII Regi\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Serviu VIII Regi\u00f3n", 
+                            "value": 26626.972134254
+                        }
+                    ], 
+                    "name": "Serviu VIII Regi\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Serviu IX Regi\u00f3n", 
+                            "value": 12705.905956794
+                        }
+                    ], 
+                    "name": "Serviu IX Regi\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Serviu X Regi\u00f3n", 
+                            "value": 7955.8330322344
+                        }
+                    ], 
+                    "name": "Serviu X Regi\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Serviu XI Regi\u00f3n", 
+                            "value": 2612.1369042091
+                        }
+                    ], 
+                    "name": "Serviu XI Regi\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Serviu XII Regi\u00f3n", 
+                            "value": 4011.3511937088
+                        }
+                    ], 
+                    "name": "Serviu XII Regi\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Serviu Regi\u00f3n Metropolitana", 
+                            "value": 36156.476082235
+                        }
+                    ], 
+                    "name": "Serviu Regi\u00f3n Metropolitana"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Serviu XIV Regi\u00f3n", 
+                            "value": 3979.2857687627
+                        }
+                    ], 
+                    "name": "Serviu XIV Regi\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Serviu XV Region", 
+                            "value": 3088.7199080017
+                        }
+                    ], 
+                    "name": "Serviu XV Regi\u00f3n"
+                }
+            ], 
+            "name": "Vivienda y Urbanismo"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Secretar\u00eda y Administraci\u00f3n General de Transportes", 
+                            "value": 1760.6985108336
+                        }, 
+                        {
+                            "name": "Empresa de los Ferrocarriles del Estado", 
+                            "value": 19230.772766452
+                        }, 
+                        {
+                            "name": "Transantiago", 
+                            "value": 6016.8856910367
+                        }, 
+                        {
+                            "name": "Unidad Operativa de Control de Tr\u00e1nsito", 
+                            "value": 1702.7862398132
+                        }, 
+                        {
+                            "name": "Fiscalizaci\u00f3n y Control", 
+                            "value": 1395.4314793493
+                        }, 
+                        {
+                            "name": "Subsidio Nacional al Transporte P\u00fablico", 
+                            "value": 54914.074451132
+                        }, 
+                        {
+                            "name": "Programa de Desarrollo Log\u00edstico", 
+                            "value": 198.17043464786
+                        }, 
+                        {
+                            "name": "Programa de Vialidad y Transporte Urbano: Sectra", 
+                            "value": 1281.8608128941
+                        }
+                    ], 
+                    "name": "Secretar\u00eda y Administraci\u00f3n General de Transportes"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretar\u00eda de Telecomunicaciones", 
+                            "value": 3515.8135115503
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda de Telecomunicaciones"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Junta de Aeron\u00e1utica Civil", 
+                            "value": 196.68129096156
+                        }
+                    ], 
+                    "name": "Junta de Aeron\u00e1utica Civil"
+                }
+            ], 
+            "name": "Transportes y Telecomunicaciones"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Secretar\u00eda General de Gobierno", 
+                            "value": 2289.1121732767
+                        }
+                    ], 
+                    "name": "Secretar\u00eda General de Gobierno"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Consejo Nacional de Televisi\u00f3n", 
+                            "value": 1144.959717753
+                        }
+                    ], 
+                    "name": "Consejo Nacional de Televisi\u00f3n"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Instituto Nacional de Deportes", 
+                            "value": 13159.022320675
+                        }, 
+                        {
+                            "name": "Fondo Nacional para el Fomento del Deporte", 
+                            "value": 783.49439587318
+                        }
+                    ], 
+                    "name": "Instituto Nacional de Deportes"
+                }
+            ], 
+            "name": "Secretar\u00eda General de Gobierno"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretar\u00eda de Servicios Sociales", 
+                            "value": 4489.5954834449
+                        }, 
+                        {
+                            "name": "Ingreso Etico Familiar y Sistema Chile Solidario", 
+                            "value": 22253.677634118
+                        }, 
+                        {
+                            "name": "Sistema de Protecci\u00f3n Integral a la Infancia", 
+                            "value": 5641.143639892
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda de Servicios Sociales"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Fondo de Solidaridad e Inversi\u00f3n Social", 
+                            "value": 9200.2404836733
+                        }
+                    ], 
+                    "name": "Fondo de Solidaridad e Inversi\u00f3n Social"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio Nacional de la Mujer", 
+                            "value": 3172.061129435
+                        }, 
+                        {
+                            "name": "Mujer y Trabajo", 
+                            "value": 930.06032898
+                        }, 
+                        {
+                            "name": "Chile Acoge: Violencia", 
+                            "value": 1415.3029370487
+                        }
+                    ], 
+                    "name": "Servicio Nacional de la Mujer"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Instituto Nacional de la Juventud", 
+                            "value": 987.48338106716
+                        }
+                    ], 
+                    "name": "Instituto Nacional de la Juventud"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Corporacion Nacional De Desarrollo Indigena", 
+                            "value": 11957.754671078
+                        }
+                    ], 
+                    "name": "Corporaci\u00f3n Nacional de Desarrollo Ind\u00edgena"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio Nacional de la Discapacidad", 
+                            "value": 2106.2124979069
+                        }
+                    ], 
+                    "name": "Servicio Nacional de la Discapacidad"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio Nacional del Adulto Mayor", 
+                            "value": 3137.6683739565
+                        }
+                    ], 
+                    "name": "Servicio Nacional del Adulto Mayor"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretaria de Evaluaci\u00f3n Social", 
+                            "value": 2605.2619396014
+                        }
+                    ], 
+                    "name": "Subsecretaria de Evaluaci\u00f3n Social"
+                }
+            ], 
+            "name": "Desarrollo Social"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Secretar\u00eda General de la Presidencia de la Rep\u00fablica", 
+                            "value": 1133.8840199926
+                        }, 
+                        {
+                            "name": "Modernizaci\u00f3n y Gobierno Electr\u00f3nico", 
+                            "value": 334.25625445698
+                        }, 
+                        {
+                            "name": "Consejo de Auditor\u00eda Interna General de Gobierno", 
+                            "value": 238.36414819037
+                        }
+                    ], 
+                    "name": "Secretar\u00eda General de la Presidencia de la Rep\u00fablica"
+                }
+            ], 
+            "name": "Secretar\u00eda General de la Presidencia de la Rep\u00fablica"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Ministerio P\u00fablico", 
+                            "value": 15972.350154397
+                        }
+                    ], 
+                    "name": "Ministerio P\u00fablico"
+                }
+            ], 
+            "name": "Ministerio P\u00fablico"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretar\u00eda de Energ\u00eda", 
+                            "value": 5560.6766950895
+                        }, 
+                        {
+                            "name": "Apoyo al Desarrollo de Energ\u00edas Renovables no Convencionales", 
+                            "value": 995.14452940925
+                        }, 
+                        {
+                            "name": "Programa Energizaci\u00f3n Rural y Social", 
+                            "value": 347.47071880507
+                        }, 
+                        {
+                            "name": "Plan de Acci\u00f3n de Eficiencia Energ\u00e9tica", 
+                            "value": 1255.4421046023
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda de Energ\u00eda"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Comisi\u00f3n Nacional de Energ\u00eda", 
+                            "value": 574.7877589456
+                        }
+                    ], 
+                    "name": "Comisi\u00f3n Nacional de Energ\u00eda"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Comisi\u00f3n Chilena de Energ\u00eda Nuclear", 
+                            "value": 1553.137800505
+                        }
+                    ], 
+                    "name": "Comisi\u00f3n Chilena de Energ\u00eda Nuclear"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Superintendencia de Electricidad y Combustibles", 
+                            "value": 1536.5975556011
+                        }
+                    ], 
+                    "name": "Superintendencia de Electricidad y Combustibles"
+                }
+            ], 
+            "name": "Energ\u00eda"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Subsecretar\u00eda del Medio Ambiente", 
+                            "value": 3182.8432369064
+                        }
+                    ], 
+                    "name": "Subsecretar\u00eda del Medio Ambiente"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Servicio de Evaluaci\u00f3n Ambiental", 
+                            "value": 1575.0225661607
+                        }
+                    ], 
+                    "name": "Servicio de Evaluaci\u00f3n Ambiental"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Superintendencia del Medio Ambiente", 
+                            "value": 849.07313349027
+                        }
+                    ], 
+                    "name": "Superintendencia del Medio Ambiente"
+                }
+            ], 
+            "name": "Medio Ambiente"
+        }
+    ], 
+    "name": "Presupuesto"
+}

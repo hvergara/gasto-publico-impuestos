@@ -1,0 +1,102 @@
+[
+    {
+        "label": "Educaci\u00f3n", 
+        "share": 0.24083597372177
+    }, 
+    {
+        "label": "Trabajo y Previsi\u00f3n Social", 
+        "share": 0.1893550882345
+    }, 
+    {
+        "label": "Salud", 
+        "share": 0.17737673707299
+    }, 
+    {
+        "label": "Interior y Seguridad P\u00fablica", 
+        "share": 0.065719529851639
+    }, 
+    {
+        "label": "Obras P\u00fablicas", 
+        "share": 0.065197452898966
+    }, 
+    {
+        "label": "Vivienda y Urbanismo", 
+        "share": 0.05455215459123
+    }, 
+    {
+        "label": "Econom\u00eda, Fomento y Turismo", 
+        "share": 0.050687010785944
+    }, 
+    {
+        "label": "Justicia", 
+        "share": 0.029509713057999
+    }, 
+    {
+        "label": "Transportes y Telecomunicaciones", 
+        "share": 0.026392298205366
+    }, 
+    {
+        "label": "Desarrollo Social", 
+        "share": 0.017936582818328
+    }, 
+    {
+        "label": "Defensa Nacional", 
+        "share": 0.016378919031761
+    }, 
+    {
+        "label": "Agricultura", 
+        "share": 0.015482619033598
+    }, 
+    {
+        "label": "Poder Judicial", 
+        "share": 0.01319307108181
+    }, 
+    {
+        "label": "Hacienda", 
+        "share": 0.011814797066506
+    }, 
+    {
+        "label": "Secretar\u00eda General de Gobierno", 
+        "share": 0.0045390794348249
+    }, 
+    {
+        "label": "Ministerio P\u00fablico", 
+        "share": 0.0044719789978301
+    }, 
+    {
+        "label": "Relaciones Exteriores", 
+        "share": 0.0038387823706112
+    }, 
+    {
+        "label": "Congreso Nacional", 
+        "share": 0.0035690811555481
+    }, 
+    {
+        "label": "Energ\u00eda", 
+        "share": 0.0027222847470103
+    }, 
+    {
+        "label": "Contralor\u00eda General de la Rep\u00fablica", 
+        "share": 0.0020433746692918
+    }, 
+    {
+        "label": "Medio Ambiente", 
+        "share": 0.0012725927439551
+    }, 
+    {
+        "label": "Miner\u00eda", 
+        "share": 0.0012714442007065
+    }, 
+    {
+        "label": "Bienes Nacionales", 
+        "share": 0.00096256613791523
+    }, 
+    {
+        "label": "Presidencia de la Rep\u00fablica", 
+        "share": 0.00053972886008776
+    }, 
+    {
+        "label": "Secretar\u00eda General de la Presidencia de la Rep\u00fablica", 
+        "share": 0.00033713922980281
+    }
+]

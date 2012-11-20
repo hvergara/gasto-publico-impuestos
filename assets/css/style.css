@@ -1,0 +1,405 @@
+
+/* -------------------------------------------------------------
+  Body structure, behavior and design
+------------------------------------------------------------- */
+html, body {
+  margin: 0; padding: 0;
+}
+
+body{
+  font-family: Helvetica, Arial, sans-serif;
+  text-rendering: optimizelegibility;
+  font-size: 76%;
+  background:#eee;
+}
+
+/* -------------------------------------------------------------
+  Basic classes
+------------------------------------------------------------- */
+.left{float:left;}
+.right{float:right;}
+.hide{display:none!important}
+
+a{color:#3a8aee;text-decoration:none;}
+a:hover{text-decoration:underline}
+
+.wrapper{width:80%;max-width:1200px;margin:auto;  text-align:center; }
+
+
+
+h1{
+    margin: 0; padding: 0;
+    font-weight:100; font-size:5.5em;
+    line-height:1em;
+    color:#333;
+}
+    
+h2{
+    margin:5px 0; padding: 0;
+    font-weight:100; font-size:1.5em;
+    line-height:1em;
+    color:#666;
+}
+    
+h3{
+    margin:5px 0 10px 0; padding: 0;
+    font-weight:100; font-size:3.5em;
+    line-height:1em;
+    color:#333;
+    text-transform:uppercase;
+}
+    
+h4{
+    margin:5px 0; padding: 0;
+    font-weight:100; font-size:1.5em;
+    line-height:1.2em;
+    color:#666;
+}
+
+.highlight{
+    padding:5px;background:#eaff97;
+}
+
+p.tk-adelle{
+    margin:5px 0; padding: 0;
+    font-weight:100; font-size:1.5em;
+}
+
+.note{
+    float:left;width:100%;
+    margin:-10px 0 0 0;
+    font-size:1em;
+}
+
+/* -------------------------------------------------------------
+    Header
+------------------------------------------------------------- */
+
+
+header{ 
+    width:100%;
+    margin:0;padding:40px 0;
+    
+    background:#eee;
+        background-image: -webkit-linear-gradient(90deg, #ddd 0%, #fff 50%);
+        background-image: -moz-linear-gradient(90deg, #ddd 0%, #fff 50%);
+        background-image: -ms-linear-gradient(90deg, #ddd 0%, #fff 50%);
+        background-image: -o-linear-gradient(90deg, #ddd 0%, #fff 50%);
+        background-image: linear-gradient(90deg, #ddd 0%, #fff 50%); 
+    
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -ms-box-sizing:border-box;
+    -o-box-sizing:border-box;
+    box-sizing:border-box;
+    
+    border-bottom: 1px solid #ddd;
+}
+    
+    
+    header nav{
+        float:left;
+        width:100%;
+        margin: 0; padding: 0;
+    }
+        header nav ul{;
+            margin: 0; padding: 0;
+        }
+            header nav ul li{
+                display:inline-block;
+                margin:10px 10px 0 5px; padding: 0;
+                font-size:1.2em; font-weight:100;
+            }
+
+
+
+/* -------------------------------------------------------------
+    Main 
+------------------------------------------------------------- */
+
+#main{
+    float:left;
+    width:100%;
+}
+
+    #main form{
+        float:left
+        width:100%;
+        margin:60px 0 40px 0;padding:30px 0;    
+        border-bottom:1px dashed #ccc;
+        border-top:1px dashed #ccc;
+    }
+        #main form input[type=number]{
+            width:50%;
+            margin:0 20px 0 0; padding:10px;
+            border:1px solid #ccc;border-radius:5px;
+            font-size:2.5em; color:#999; font-weight:100;
+            background:#eee;
+                background-image: -webkit-linear-gradient(90deg, #fff 0%, #eee 80%);
+                background-image: -moz-linear-gradient(90deg, #fff 0%, #eee 80%);
+                background-image: -ms-linear-gradient(90deg, #fff 0%, #eee 80%);
+                background-image: -o-linear-gradient(90deg, #fff 0%, #eee 80%);
+                background-image: linear-gradient(90deg, #fff 0%, #eee 80%);            
+        }
+        #main form input[type=submit]{
+            padding:10px;
+            border:1px solid #999;border-radius:5px;
+            font-size:2.5em; color:white;text-shadow:1px 1px 1px #333;
+            background:#eee;
+                background-image: -webkit-linear-gradient(90deg, #ffd53e 0%, #ffae3e 80%);
+                background-image: -moz-linear-gradient(90deg, #ffd53e 0%, #ffae3e 80%);
+                background-image: -ms-linear-gradient(90deg, #ffd53e 0%, #ffae3e 80%);
+                background-image: -o-linear-gradient(90deg, #ffd53e 0%, #ffae3e 80%);
+                background-image: linear-gradient(90deg, #ffd53e 0%, #ffae3e 80%);            
+        }
+        #main form small{
+            display:block;
+            margin:10px;
+            font-size:.9em;
+        }
+
+    #profiles{
+        float:left;
+        width:100%;
+        margin:30px 0 0 0;padding:30px 0 0 0;
+    }
+    
+        #profiles article{
+            float:left;
+            width:25%;
+            margin:30px 0;
+            text-align:left;
+        }
+            #profiles article figure {
+                float:left;
+                width:100%;
+            }
+            #profiles article figure img{
+                float:left;
+                padding:10px 10px 25px 10px; margin: 0 20px 10px 0;
+                width:100%;
+                max-width:150px;
+                background:white;
+                box-shadow:0 0 2px #ccc;
+                -webkit-transform: rotate(-2deg);
+                
+            }
+            #profiles article figure figcaption{
+                float:left;
+                width:100%;
+                padding:0 5px; margin:0 0 10px 0;
+            }
+            #profiles article h4{
+                float:left;
+                padding:0 10px; margin:10px 0 0 0;
+            }
+            #profiles article p{
+                float:left;
+                max-width:250px;
+                padding:0 10px; margin:10px 0;
+            }
+            #profiles article small{
+                margin:0;padding:0;            
+                font-size:.8em; font-weight:100;
+            }
+            #profiles article a{
+                display: block;
+                margin:0;padding:0;
+                font-weight:100; font-size:1.4em; color:#3a8aee;
+            }
+        
+    #liquidacion{
+        float:left;
+        width:100%;
+        margin:10px 0 30px 0;padding:0;
+        list-style:none;
+        background:#fff3c6;
+        box-shadow:0 2px 2px #ccc;
+    }
+        #liquidacion ul{
+            padding:30px;
+            list-style:none;
+        }    
+            #liquidacion li{
+                float:left;
+                width:100%;
+                padding:10px 0;margin:0;
+                list-style:none;
+            }
+                #liquidacion li strong{
+                    font-size:2em;font-weight:100;display:block;
+                    padding:10px 20px;
+                    color:#333;
+                    float:left;
+                }
+                #liquidacion li small{
+                    width:80%;
+                    float:left;text-align:left;
+                    padding:0 20px;
+                    font-size:1em;color:#666;
+                }
+                #liquidacion li big{
+                    font-size:2em;font-weight:400;display:block;
+                    padding:10px 20px;
+                    float:right;
+                }
+        /* Ingresos */
+            #liquidacion .ingresos{
+                background:rgba(235,110,39,0.1);
+            }
+
+        /* Descuentos */
+            #liquidacion .descuentos li{
+                border-bottom:1px solid white;
+            }         
+                #liquidacion .descuentos li:last-child{
+                    border:none;
+                }                            
+                    #liquidacion .descuentos ul li strong,
+                    #liquidacion .descuentos ul li big{
+                        font-size:1.6em!important;
+                    }
+                    #liquidacion .descuentos ul li big{
+                        color:#7d070d;
+
+                    }
+
+        #liquidacion .total_descuentos{
+            margin:0 0 30px 0;
+        }
+
+            #liquidacion .total_descuentos strong,
+            #liquidacion .total_descuentos big{
+                font-size:1.6em!important;
+            }
+                        
+            #liquidacion .total_descuentos big{
+                padding:0 40px 0 0;
+                color:#7d070d;
+            }
+                    
+        /* Total final */
+            #liquidacion .total{
+                background:rgba(235,110,39,0.1);
+            }
+                #liquidacion .total strong,
+                #liquidacion .total big{
+                    color:#116b06!important;
+                }
+            
+            #liquidacion .impuesto{
+                background:rgba(225,246,140,0.5);
+            }
+            
+            
+    #impuestos{
+        float:left;
+        width:100%;
+        margin:10px 0 30px 0;padding:0;
+        list-style:none;
+        background:#fff3c6;
+        box-shadow:0 2px 2px #ccc;
+    }
+    
+    .tabs{
+        float:left;
+        width:100%;
+        margin:10px 0 30px 0;padding:0;
+        list-style:none;
+    }
+    
+        #impuestos ul{
+            float:left;
+            width:100%;
+            padding:15px 0;
+            list-style:none;
+            position:relative;
+        }    
+            #impuestos li{
+                float:left;
+                width:100%;
+                padding:0 0 15px 0;margin:0 0 15px 0;
+                list-style:none;
+            }
+                #impuestos li strong{
+                    font-size:2em;font-weight:100;display:block;
+                    padding:0 0 0 40px;
+                    color:#333;
+                    float:left;
+                }
+                #impuestos li small{
+                    width:80%;
+                    float:left;text-align:left;
+                    padding:0 40px;
+                    font-size:1em;color:#666;
+                }
+                #impuestos li big{
+                    font-size:2.5em;font-weight:400;display:block;
+                    padding:0 40px 0 0; margin:5px 0 0 0;
+                    float:right;
+                }
+            
+            
+#page{
+    margin:auto;
+    max-width:800px;
+    text-align:left;padding:20px 0;
+    }
+#page h4{
+    font-size:2.5em;
+}
+            
+            
+.buttons{
+    float:left;
+    width:100%;
+    margin:5px 0 15px 0;
+    }
+    .buttons a{
+        padding:10px 25px; margin:0 10px;
+        border-radius:10px;
+        background:#8fbef2;
+        color:white;
+        text-transform:uppercase;
+        }
+            
+            
+/* Animations */
+            
+.next{margin:30px 0 60px 0;}
+            
+            
+            
+.flash {
+    opacity: 0;
+    position:absolute;right:-30px;
+    -webkit-transition: all 0.5s ease-out;
+  }
+  
+.flash.visible {
+    margin-left:0;
+    opacity: 1;
+    position:relative;
+    right:0;
+  }
+
+.slide {
+    opacity: 0;
+    position:absolute;top:-20px;
+    -webkit-transition: all 0.5s ease-out;
+    border-bottom:1px solid white;
+  }
+  
+.slide.visible{
+    opacity: 1;
+    position:relative;top:0;
+  }
+            
+            
+.lista_enlaces{
+    margin:0;
+    float:left;
+    width:100%;
+    font-size:.8em!important;
+}
+            
